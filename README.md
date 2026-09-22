@@ -1,4 +1,4 @@
-# SW_Laboratorio 3
+0# SW_Laboratorio 2
 Para ejecutar los tests, necesitaremos npm, el gestor de paquetes que viene instalado junto con Node.js.  
 
 Primero, instalaremos los paquetes necesarios mediante "npm install".
